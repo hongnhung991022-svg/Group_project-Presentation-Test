@@ -1,0 +1,5 @@
+/*4.Average income based on loan status*/
+
+SELECT HAS_BAD_DEBT, AVG(MONTHLY_INCOME) AS AvgIncome
+FROM CLIENT_STATUS
+GROUP BY HAS_BAD_DEBT;

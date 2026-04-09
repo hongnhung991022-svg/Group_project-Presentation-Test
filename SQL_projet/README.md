@@ -156,8 +156,6 @@ ORDER BY total_penalty DESC;
 
 - Créer une table de jonction **`FILM_GENRES`** pour attribuer plusieurs genres par film.
 
-- Ajouter des fonctionnalités de reporting avancé (films les plus loués, clients réguliers, retards fréquents, statistiques de pénalités).
-
 
 ## Auteurs
 

@@ -1,6 +1,6 @@
 ## Modèle Conceptuel : Entités et Relations
 
-
+![](ER_diagram.png)
 
 ### Relation entre les tables du schéma 
 Le diagramme présenté illustre une base de données relationnelle pour un système de location de films. Les relations entre les tables sont définies par les lignes de connexion (souvent appelées notation en patte-d'oie) :
